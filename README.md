@@ -5,6 +5,8 @@ BatchLivestreamer are Simple Batch Files that use [LiveSteamer](https://github.c
 
 [LiveSteamer by chrippa](https://github.com/chrippa/livestreamer)
 
+### This assumes you use MPCHC for Livestreamer. Edit line 18 in start.bat, "taskkill /im mpc-hc64.exe", to have the process the media player you use instead of "mpc-hc64.exe".
+
 <br>
 
 ##### Q: What Actually Does This Do?
